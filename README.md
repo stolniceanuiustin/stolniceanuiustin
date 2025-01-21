@@ -6,7 +6,7 @@ Tools: Git, GitHub, VSCode, IntelliJ Idea, Arduino IDE
 
 Projects:
 - [**CHIP-8 Emulator**](https://github.com/stolniceanuiustin/CHIP8-emulator) - A CHIP-8 emulator written in C with SDL2 for graphics.
-- [**6502 Emulator**](https://github.com/stolniceanuiustin/6502EmuCPP) - Work-in-progress 6502 CPU emulator written in C++.
+- [**6502 Emulator**](https://github.com/stolniceanuiustin/NESEmulatorCPP) - Work-in-progress 6502 CPU emulator written in C++.
 <!--
 **stolniceanuiustin/stolniceanuiustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
