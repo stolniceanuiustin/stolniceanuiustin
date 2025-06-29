@@ -1,12 +1,12 @@
 ## Hi there, I'm Iustin! 👋
 I am a Computer Science and Engineering student at Tehnical Univeristy of Cluj-Napoca, passionate about low-level programming. 
 
-Languages: C, C++, Java
-Tools: Git, GitHub, VSCode, IntelliJ Idea, Arduino IDE, Meson  
+Languages: C, C++, Java, VHDL
+Tools: Git, GitHub, VSCode, IntelliJ Idea, Arduino IDE, Meson, Xillinx Vivado  
 
 Projects:
 - [**CHIP-8 Emulator**](https://github.com/stolniceanuiustin/CHIP8-emulator) - A CHIP-8 emulator written in C with SDL2 for graphics.
-- [**6502 Emulator**](https://github.com/stolniceanuiustin/NESEmulatorCPP) - Work-in-progress 6502 CPU emulator written in C++.
+- [**NES-Emualtorr**](https://github.com/stolniceanuiustin/NESEmulatorCPP) - Work-in-progress NES Emulator emulator written in C++. SDL2 is used for graphics.
 <!--
 **stolniceanuiustin/stolniceanuiustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
