@@ -6,7 +6,8 @@ Tools: Git, GitHub, VSCode, IntelliJ Idea, Arduino IDE, Meson, Xillinx Vivado
 
 Projects:
 - [**CHIP-8 Emulator**](https://github.com/stolniceanuiustin/CHIP8-emulator) - A CHIP-8 emulator written in C with SDL2 for graphics.
-- [**NES-Emualtorr**](https://github.com/stolniceanuiustin/NESEmulatorCPP) - Work-in-progress NES Emulator emulator written in C++. SDL2 is used for graphics.
+- [**NES-Emualtor**](https://github.com/stolniceanuiustin/NESEmulatorCPP) - Work-in-progress NES Emulator emulator written in C++. SDL2 is used for graphics.
+- [**Simple MIPS-Pipeline**](https://github.com/stolniceanuiustin/MIPSPipeline) - A MIPS pipeline implementation in VHDL.
 <!--
 **stolniceanuiustin/stolniceanuiustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
