@@ -2,7 +2,7 @@
 I am a Computer Science and Engineering student at Tehnical Univeristy of Cluj-Napoca, passionate about low-level programming and embedded systems.
 
 Languages: C, C++, Java, Python, VHDL. 
-Tools: Git, GitHub, VSCode, IntelliJ Idea, Arduino IDE, Meson, Xillinx Vivado  
+Tools: Git, GitHub, VSCode, IntelliJ Idea, PlatformIO, Meson, Xillinx Vivado, Xillinx Vitis  
 
 Projects:
 
