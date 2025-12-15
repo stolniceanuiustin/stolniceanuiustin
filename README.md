@@ -10,9 +10,10 @@ Projects:
 - [**Traffic Light Controller on ZYBO**](https://github.com/stolniceanuiustin/Traffic_Light_Network_Controller_ZYBO) - Work-in-progress Traffic Light Controller on ZYBO with a custom UART module.
 - [**polihack_UrbanFlow**](https://github.com/stolniceanuiustin/polihack_UrbanFlow) - Product prototype developed during a hackathon. Similar to the project above, but on ESP and more scalable.
 - [**HorseShare**](https://github.com/KOTerra/utcn-HorseShare) - Team project for Software Engineering class. Vue.JS + FastAPI app, designed as a Uber clone. 
+- [**VGA Controller**](https://github.com/stolniceanuiustin/VGAControllerNexys7) - Simple VGA Controller for Nexys 7.
 - [**CHIP-8 Emulator**](https://github.com/stolniceanuiustin/CHIP8-emulator) - A CHIP-8 emulator written in C with SDL2 for graphics.
 - [**Simple MIPS-Pipeline**](https://github.com/stolniceanuiustin/MIPSPipeline) - A MIPS pipeline implementation in VHDL.
-
+  
 <!--
 **stolniceanuiustin/stolniceanuiustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
