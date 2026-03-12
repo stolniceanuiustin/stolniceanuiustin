@@ -1,5 +1,5 @@
 ## Hi there, I'm Iustin! 👋
-I am a Computer Science and Engineering student at Tehnical Univeristy of Cluj-Napoca, passionate about low-level programming and embedded systems.
+I am a Computer Science and Engineering student at Tehnical Univeristy of Cluj-Napoca and an Embedded Software Intern at Analog Devices Romania, passionate about low-level programming and embedded systems.
 
 Languages: C, C++, Java, Python, VHDL. 
 Tools: Git, GitHub, VSCode, IntelliJ Idea, PlatformIO, Meson, Xillinx Vivado, Xillinx Vitis  
