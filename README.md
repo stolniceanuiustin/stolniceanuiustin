@@ -1,9 +1,8 @@
 ## Hi there, I'm Iustin! 👋
-I am a Computer Science and Engineering student at Tehnical Univeristy of Cluj-Napoca and an Embedded Software Engineering Intern @ Analog Devices Romania, passionate about low-level programming and embedded systems.
-I am actively contributing to Zephyr RTOS by implementing drivers for high performance sensors, such as IMUs, but also for high-speed specialized convertors, as part of my work at ADI. 
+I am a Computer Science and Engineering student at **Tehnical Univeristy of Cluj-Napoca** and an **Embedded Software Engineering Intern @ Analog Devices Romania**, passionate about low-level programming and embedded systems.
+I am actively contributing to Zephyr RTOS by implementing drivers for high performance sensors, such as IMUs, but also for high-speed specialized convertors, as part of my work at ADI. I am currently experimenting the viability of running PL-PS applications on Zephyr RTOS, on evaluation boards like ZedBoard and ZCU102. 
 
 Projects:
-
 - [**NES Emulator on ESP32**](https://github.com/stolniceanuiustin/ESP32NESEMULATOR) - Work-in-progress NES Emulator emulator written in C++. Running on ESP32 (currently at 24 FPS). Super Mario Bros. 1, Pac Man and Donkey Kong work flawlessly. Only Mapper0 is supported. No APU implementation exists yet.
 - [**NES Emulator on x86**]((https://github.com/stolniceanuiustin/NESEmulatorCPP))
 - [**Traffic Light Controller on ZYBO**](https://github.com/stolniceanuiustin/Traffic_Light_Network_Controller_ZYBO) - Work-in-progress Traffic Light Controller on ZYBO with a custom UART module.  
