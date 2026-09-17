@@ -1,6 +1,6 @@
 ## Hi there, I'm Iustin! 👋
 I am: 
-- aComputer Science and Engineering student at **Tehnical Univeristy of Cluj-Napoca** and an **Embedded Software Engineering Intern @ Analog Devices Romania**, passionate about low-level programming and embedded systems.     
+- a Computer Science and Engineering student at **Tehnical Univeristy of Cluj-Napoca** and an **Embedded Software Engineering Intern @ Analog Devices Romania**, passionate about low-level programming and embedded systems.     
 - Actively contributing to Zephyr RTOS by implementing drivers for high performance sensors, such as IMUs, but also for high-speed specialized convertors, as part of my work at ADI.           
 - Currently experimenting the viability of running PL-PS applications on Zephyr RTOS, on evaluation boards like ZedBoard and ZCU102.      
 
