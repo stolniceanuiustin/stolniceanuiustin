@@ -6,7 +6,6 @@ I am:
 
 COol Projects:
 - [**NES Emulator on ESP32**](https://github.com/stolniceanuiustin/ESP32NESEMULATOR) - Work-in-progress NES Emulator emulator written in C++. Running on ESP32 (currently at 24 FPS). Super Mario Bros. 1, Pac Man and Donkey Kong work flawlessly. Only Mapper0 is supported. No APU implementation exists yet.
-- [**NES Emulator on x86**]((https://github.com/stolniceanuiustin/NESEmulatorCPP))
 - [**polihack_UrbanFlow**](https://github.com/stolniceanuiustin/polihack_UrbanFlow) - Product prototype developed during a hackathon. Similar to the project above, but on ESP and more scalable.  
 - [**VGA Controller**](https://github.com/stolniceanuiustin/VGAControllerNexys7) - Simple VGA Controller for Nexys 7.
   
